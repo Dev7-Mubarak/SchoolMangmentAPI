@@ -36,12 +36,6 @@ A robust **School Management API** built using **Clean Architecture** to provide
 - `PUT /teachers/{id}` – Update teacher details.
 - `DELETE /teachers/{id}` – Delete a teacher.
 
-### Classes
-- `GET /classes` – Get a list of all classes.
-- `POST /classes` – Add a new class.
-- `PUT /classes/{id}` – Update class details.
-- `DELETE /classes/{id}` – Delete a class.
-
 ## 🚀 Installation
 
 1. **Clone the repository**:
